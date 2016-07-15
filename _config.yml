@@ -1,0 +1,14 @@
+layout_spectrum: 0.7647547041997313
+typography_spectrum: 0.4418072560802102
+color:
+  brandStrength: 0.9180943157989532
+  lightness: 0.29902685643173754
+  saturation: 0.7001910149119794
+  rhythmicContrast: 0.328640986001119
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: sly monkeys
